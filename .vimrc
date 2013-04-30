@@ -55,16 +55,7 @@ set scrolloff=5
 
 " " "
 " Motions
-"
-" Disable arrow keys; hjkl are way better anyways!
-noremap  <up>    <nop>
-inoremap <up>    <nop>
-noremap  <down>  <nop>
-inoremap <down>  <nop>
-noremap  <left>  <nop>
-inoremap <left>  <nop>
-noremap  <right> <nop>
-inoremap <right> <nop>
+
 
 " Make backspace work as expected (across lines)
 set backspace=2
